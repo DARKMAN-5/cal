@@ -1,4 +1,4 @@
-# trying to learn kivi
+# trying to learn kivy
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
